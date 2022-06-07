@@ -7,7 +7,7 @@ Celular
 Integrantes:
 Gonzalo Perez Cadaveira
 Fermín Arcos
-Facundo Calleja
+Facundo Calleja, Abogado, 31 años, residiendo en la ciudad de Posadas, Provincia de Misiones.
 Agustín Xavier Alvarez
 
 Referencias:
