@@ -1,8 +1,9 @@
 Productos a asegurar:
-Auto -> Seleccionar vehiculo (Marca, año, modelo) y cobertura (A, B, C, Todo Riesgo)
-Moto -> Seleccionar vehiculo (Marca, año, modelo) y cobertura (A, B)
-Bicicleta -> Seleccionar Marca, cobertura (Delivery, Particular, Competicion) y Suma Asegurada
-Celular -> Seleccionar Marca y Suma Asegurada
+
+- Auto -> Seleccionar vehiculo (Marca, año, modelo) y cobertura (A, B, C, Todo Riesgo)
+- Moto -> Seleccionar vehiculo (Marca, año, modelo) y cobertura (A, B)
+- Bicicleta -> Seleccionar Marca, cobertura (Delivery, Particular, Competicion) y Suma Asegurada
+- Celular -> Seleccionar Marca y Suma Asegurada
 
 Integrantes:
 
@@ -13,10 +14,11 @@ Integrantes:
 
 
 Referencias:
-https://www.lasegunda.com.ar/home
-https://triunfoseguros.com
-https://www.allianz.com.ar/
-https://www.sancristobal.com.ar/institucional/
-https://www.fedpat.com.ar/
-https://www.sancorseguros.com.ar/
-https://www.zurich.com.ar/es-ar/personas
+
+- https://www.lasegunda.com.ar/home
+- https://triunfoseguros.com
+- https://www.allianz.com.ar/
+- https://www.sancristobal.com.ar/institucional/
+- https://www.fedpat.com.ar/
+- https://www.sancorseguros.com.ar/
+- https://www.zurich.com.ar/es-ar/personas
