@@ -8,7 +8,7 @@ Integrantes:
 Gonzalo Perez Cadaveira
 Fermín Arcos
 Facundo Calleja
-Agustín Xavier Alvarez, Estudiante de Ing. en Sistemas (UTN), actualmente tengo 22 años
+-Agustín Xavier Alvarez, Estudiante de Ing. en Sistemas (UTN), actualmente tengo 22 años
 
 Referencias:
 https://www.lasegunda.com.ar/home
