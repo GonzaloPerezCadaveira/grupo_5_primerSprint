@@ -7,7 +7,7 @@ Celular -> Seleccionar Marca y Suma Asegurada
 Integrantes:
 Gonzalo Perez Cadaveira, Contado Publico, tengo 29 años.
 Fermín Arcos, Empleado administrativo para Productor Asesor de Seguros, actualmente tengo 21 años
-Facundo Calleja
+Facundo Calleja, Abogado, 31 años.
 -Agustín Xavier Alvarez, Estudiante de Ing. en Sistemas (UTN), actualmente tengo 22 años
 
 Referencias:
