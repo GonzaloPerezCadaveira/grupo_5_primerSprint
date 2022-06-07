@@ -1,4 +1,4 @@
-Productos:
+Productos a asegurar:
 Auto
 Moto
 Bicicleta
@@ -8,7 +8,7 @@ Integrantes:
 Gonzalo Perez Cadaveira
 Fermín Arcos
 Facundo Calleja, Abogado, 31 años, residiendo en la ciudad de Posadas, Provincia de Misiones.
-Agustín Xavier Alvarez
+-Agustín Xavier Alvarez, Estudiante de Ing. en Sistemas (UTN), actualmente tengo 22 años
 
 Referencias:
 https://www.lasegunda.com.ar/home
