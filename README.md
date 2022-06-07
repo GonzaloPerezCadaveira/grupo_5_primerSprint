@@ -1,12 +1,12 @@
 Productos:
-Auto
-Moto
-Bicicleta
-Celular
+Auto -> Seleccionar vehiculo (Marca, año, modelo) y cobertura (A, B, C, Todo Riesgo)
+Moto -> Seleccionar vehiculo (Marca, año, modelo) y cobertura (A, B)
+Bicicleta -> Seleccionar Marca, cobertura (Delivery, Particular, Competicion) y Suma Asegurada
+Celular -> Seleccionar Marca y Suma Asegurada
 
 Integrantes:
 Gonzalo Perez Cadaveira
-Fermín Arcos
+Fermín Arcos, Empleado administrativo para Productor Asesor de Seguros, actualmente tengo 21 años
 Facundo Calleja
 Agustín Xavier Alvarez, Estudiante de Ing. en Sistemas (UTN), actualmente tengo 22 años
 
