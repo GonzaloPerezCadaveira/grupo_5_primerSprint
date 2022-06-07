@@ -1,4 +1,4 @@
-Productos:
+Productos a asegurar:
 Auto
 Moto
 Bicicleta
